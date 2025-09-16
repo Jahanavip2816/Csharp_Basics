@@ -1,2 +1,62 @@
 bin/
 obj/
+
+# Build results
+
+bin/
+
+obj/
+ 
+# Rider / VS Code project settings
+
+.idea/
+
+.vscode/
+ 
+# User-specific files
+
+*.user
+
+*.userosscache
+ 
+# Logs
+
+*.log
+ 
+# Test results
+
+TestResults/
+
+*.coverage
+
+*.coveragexml
+ 
+# NuGet
+
+*.nupkg
+
+*.snupkg
+
+packages/
+
+*.nuget.props
+
+*.nuget.targets
+ 
+# ASP.NET temporary files
+
+project.lock.json
+
+artifacts/
+ 
+# Cache
+
+*.dbmdl
+
+*.bak
+
+*.cache
+
+*.swp
+
+ 
