@@ -12,3 +12,4 @@ C:\Users\jahanavi.p\Documents\csharp\CrimeApp\obj\Debug\net9.0\refint\CrimeApp.d
 C:\Users\jahanavi.p\Documents\csharp\CrimeApp\obj\Debug\net9.0\CrimeApp.pdb
 C:\Users\jahanavi.p\Documents\csharp\CrimeApp\obj\Debug\net9.0\CrimeApp.genruntimeconfig.cache
 C:\Users\jahanavi.p\Documents\csharp\CrimeApp\obj\Debug\net9.0\ref\CrimeApp.dll
+C:\Users\jahanavi.p\Documents\csharp\CrimeApp\obj\Debug\net9.0\CrimeApp.sourcelink.json
